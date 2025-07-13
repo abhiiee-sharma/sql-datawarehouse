@@ -1,0 +1,1 @@
+-- This file contains initialization for the silver layer of datawarehouse
