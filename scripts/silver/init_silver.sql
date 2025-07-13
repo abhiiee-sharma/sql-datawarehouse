@@ -1,1 +1,2 @@
 -- This file contains initialization for the silver layer of datawarehouse
+-- This does not contain the schema of the table as it directly proidede in tis init_database file.
