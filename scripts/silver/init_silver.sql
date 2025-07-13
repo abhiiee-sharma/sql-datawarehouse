@@ -1,2 +1,3 @@
 -- This file contains initialization for the silver layer of datawarehouse
 -- This does not contain the schema of the table as it directly proidede in tis init_database file.
+-- This layer deals with the data transformation and loading from bronze to silver layer of the datawarehouse.
